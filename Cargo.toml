@@ -1,0 +1,7 @@
+[package]
+name = "rust_shared_access"
+version = "0.1.0"
+authors = ["Gerardo Heidel <heidel.gerardo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
